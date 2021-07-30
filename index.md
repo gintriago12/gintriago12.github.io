@@ -1,7 +1,7 @@
 # Gabriel Intriago
 
 ## About me
-![Img](https://ibb.co/n0FjnfR)
+![](https://ibb.co/n0FjnfR)
 Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
 My passion is to make the electric power grid smart, and secure.
 I dedicate my research in connecting electric power systems and machine learning algorithms that evolve over time.
