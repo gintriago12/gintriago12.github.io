@@ -1,5 +1,7 @@
-## Gabriel Intriago
+# Gabriel Intriago
 
+## About me
+![Img](https://ibb.co/n0FjnfR)
 Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
 My passion is to make the electric power grid smart, and secure.
 I dedicate my research in connecting electric power systems and machine learning algorithms that evolve over time.
@@ -18,38 +20,18 @@ I dedicate my research in connecting electric power systems and machine learning
 **Optimization:** I took the three graduate classes, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems
 
 
-## Research
+## Journals
+
+**Autonomous Installations for Monitoring the "Protector Prosperina" Forest**
+Applied Sciences. 2019; 9(19):4034.
+[https://doi.org/10.3390/app9194034](https://doi.org/10.3390/app9194034)
 
 
+## Conference papers
 
-### Markdown
+**Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems**
+IEEE Power and Energy Society General Meeting 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gintriago12/gintriag12.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**The Sequential Importance Sampling Particle Filter with a Systematic Resampling in the State Estimation of Power Systems**
+2018 IEEE International Conference on Automation/XXIII Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+[https://ieeexplore.ieee.org/document/8609847](https://ieeexplore.ieee.org/document/8609847)
