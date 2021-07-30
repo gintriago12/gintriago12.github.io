@@ -1,8 +1,26 @@
-## Welcome to GitHub Pages
+## Gabriel Intriago
 
-You can use the [editor on GitHub](https://github.com/gintriago12/gintriag12.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
+My passion is to make the electric power grid smart, and secure.
+I dedicate my research in connecting electric power systems and machine learning algorithms that evolve over time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Qualifications
+
+**Programming languages:** Matlab, and Python proficient.
+
+**Machine Learning:** I took a graduate class, and I am currently working on evolving machine learning models for power systems.
+
+**Leadership:* I served for two years as the president of the Entrepreneurs Club during my undergrad.
+
+**Telemetry:** Hardware lead for several telemetry projects during three years
+
+**Optimization:** I took the three graduate classes, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems
+
+
+## Research
+
+
 
 ### Markdown
 
