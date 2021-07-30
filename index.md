@@ -30,6 +30,7 @@ Applied Sciences. 2019; 9(19):4034.
 ## Conference papers
 
 **Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems**
+
 IEEE Power and Energy Society General Meeting 2021
 
 **The Sequential Importance Sampling Particle Filter with a Systematic Resampling in the State Estimation of Power Systems**
