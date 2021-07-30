@@ -14,7 +14,7 @@ I dedicate my research in connecting electric power systems and machine learning
 
 **Machine Learning:** I took a graduate class, and I am currently working on evolving machine learning models for power systems.
 
-**Leadership:* I served for two years as the president of the Entrepreneurs Club during my undergrad.
+**Leadership:** I served for two years as the president of the Entrepreneurs Club during my undergrad.
 
 **Telemetry:** Hardware lead for several telemetry projects during three years
 
