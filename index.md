@@ -10,15 +10,19 @@ I dedicate my research in connecting electric power systems and machine learning
 
 ## Qualifications
 
-**Programming languages:** Matlab, and Python proficient.
+**Programming languages:** Matlab, Python, and bash scripting.
 
-**Machine Learning:** I took a graduate class, and I am currently working on evolving machine learning models for power systems.
+**Machine Learning:** Coursework and experience applying machine learning to conduct experiments on data. Recently, I presented the article "Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems" in a Best Paper Session at IEEE PES GM 2021 conference.
 
-**Leadership:** I served for two years as the president of the Entrepreneurs Club during my undergrad.
+Estimation: Two years of experience in power systems state estimation, acquainted with Kalman filters, particle filters, weighted least squares, and other methods.
 
-**Telemetry:** Hardware lead for several telemetry projects during three years
+Control: Coursework and experience designing basic controllers for linear systems. Graduate classes taken, 1) feedback control systems, 2) applied feedback control, and 3) digital control
 
-**Optimization:** I took the three graduate classes, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems
+Telemetry: Hardware lead for several telemetry projects during three years at Telconet, and one year and a half as the project lead for an environmental monitoring telemetry project at ESPOL.
+
+Optimization: Coursework. Graduate classes taken, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems.
+
+Leadership: I served for two years as the president of the Entrepreneurs Club during my undergrad.
 
 
 ## Journals
