@@ -14,15 +14,15 @@ I dedicate my research in connecting electric power systems and machine learning
 
 **Machine Learning:** Coursework and experience applying machine learning to conduct experiments on data. Recently, I presented the article "Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems" in a Best Paper Session at IEEE PES GM 2021 conference.
 
-Estimation: Two years of experience in power systems state estimation, acquainted with Kalman filters, particle filters, weighted least squares, and other methods.
+**Estimation:** Two years of experience in power systems state estimation, acquainted with Kalman filters, particle filters, weighted least squares, and other methods.
 
-Control: Coursework and experience designing basic controllers for linear systems. Graduate classes taken, 1) feedback control systems, 2) applied feedback control, and 3) digital control
+**Control:** Coursework and experience designing basic controllers for linear systems. Graduate classes taken, 1) feedback control systems, 2) applied feedback control, and 3) digital control
 
-Telemetry: Hardware lead for several telemetry projects during three years at Telconet, and one year and a half as the project lead for an environmental monitoring telemetry project at ESPOL.
+**Telemetry:** Hardware lead for several telemetry projects during three years at Telconet, and one year and a half as the project lead for an environmental monitoring telemetry project at ESPOL.
 
-Optimization: Coursework. Graduate classes taken, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems.
+**Optimization:** Coursework. Graduate classes taken, 1) numerical optimization, 2) convex optimization, and 3) optimization for power systems.
 
-Leadership: I served for two years as the president of the Entrepreneurs Club during my undergrad.
+**Leadership:** I served for two years as the president of the Entrepreneurs Club during my undergrad.
 
 
 ## Journals
