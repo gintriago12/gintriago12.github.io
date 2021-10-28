@@ -1,7 +1,7 @@
 # Gabriel Intriago
 
 ## About me
-![](https://postimg.cc/1VBmqLSP)
+[](https://postimg.cc/1VBmqLSP)
 
 Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
 My passion is to make the electric power grid smart, and secure.
@@ -35,6 +35,7 @@ Applied Sciences. 2019; 9(19):4034.
 ## Conference papers
 
 **Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems**, _IEEE Power and Energy Society General Meeting 2021_, July 2021
+[https://arxiv.org/abs/2108.10990](https://arxiv.org/abs/2108.10990)
 
-**The Sequential Importance Sampling Particle Filter with a Systematic Resampling in the State Estimation of Power Systems**, _2018 IEEE International Conference on Automation/XXIII Congress of the Chilean Association of Automatic Control (ICA-ACCA)_, October 2018
-[https://ieeexplore.ieee.org/document/8609847](https://ieeexplore.ieee.org/document/8609847)
+**Performance of the Estimators Weighted Least Square, Extended Kalman Filter, and the Particle Filter in the Dynamic Estimation of State Variables of Electrical Power Systems**, _2018 IEEE International Conference on Automation/XXIII Congress of the Chilean Association of Automatic Control (ICA-ACCA)_, October 2018
+[https://ieeexplore.ieee.org/abstract/document/8609729](https://ieeexplore.ieee.org/abstract/document/8609729)
