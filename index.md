@@ -1,7 +1,7 @@
 # Gabriel Intriago
 
 ## About me
-[](https://postimg.cc/1VBmqLSP)
+![](https://raw.githubusercontent.com/gintriago12/gintriago12.github.io/main/images/telconet2.jpg)
 
 Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
 My passion is to make the electric power grid smart, and secure.
