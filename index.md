@@ -3,14 +3,14 @@
 ## About me
 ![](https://raw.githubusercontent.com/gintriago12/gintriago12.github.io/main/images/telconet2.jpg)
 
-Hi! I am a Ph.D. student in Electrical Engineering at the University of California, Santa Cruz.
-My passion is to make the electric power grid smart, and secure.
-I dedicate my research in connecting electric power systems and machine learning algorithms that evolve over time.
+I am a Ph.D. student passionate about making the electric power grid smart, and secure. My research interests lie in the intersection of microgrids, fault diagnosis, and machine learning for data streams.
 
 
 ## Qualifications
 
-**Programming languages:** Matlab, Python, and bash scripting.
+**Technical Courses:** AC Microgrids (AAU University), Active Fault Tolerant Control (AAU University), Time-Domain Simulations (DIgSilent PowerFactory).
+
+**Programming languages:** Matlab, Python, and Bash scripting.
 
 **Machine Learning:** Coursework and experience applying machine learning to conduct experiments on data. Recently, I presented the article "Online Dictionary Learning Based Fault and Cyber Attack Detection for Power Systems" in a Best Paper Session at IEEE PES GM 2021 conference.
 
